@@ -1,0 +1,4 @@
+translation-hu
+==============
+
+Hungarian translation
